@@ -20,5 +20,17 @@
 Name: Faysal Ahmed
 Country: Bangladesh 🇧🇩
 Role: Full Stack Web Developer
-Learning: AI, SaaS, PHP Architecture, Modern UI/UX
-Dream: Build products used by thousands of people.
+
+Currently Working On:
+  - AIVerse
+  - HishabOne
+  - IPTV Platform
+
+Learning:
+  - AI
+  - SaaS
+  - PHP Architecture
+  - Modern UI/UX
+
+Dream:
+  Build products used by thousands of people.
