@@ -106,10 +106,10 @@ Premium IPTV Management System
 # 📫 Connect With Me
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/fsfaysa1
 
 Email:
-your@email.com
+fssamiafaysal@email.com
 
 ---
 
